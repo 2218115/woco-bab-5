@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3837129554",
+    "project_id": "wocoapp-b0141",
+    "storage_bucket": "wocoapp-b0141.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3837129554:android:f2e64ba8cd870ce286808b",
+        "android_client_info": {
+          "package_name": "com.belajarreactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWZStOUPvelivAfkzmxMllbl9EMzqRw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
